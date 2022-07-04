@@ -4,7 +4,7 @@
 
 <h1>From The Dark</h1>
 
-<p>My First Dark Side.</p>
+<p>THE DARK ARRIVES.</p>
 
 </body>
 </html>
